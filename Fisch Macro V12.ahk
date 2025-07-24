@@ -61,7 +61,7 @@ RepeatBypassCounter := 10
 
 ; Seconds for navigation shake to be considered failed
 NavigationShakeFailsafe := 30
-; Delay between each "S+Enter" in miliseconds
+; Delay between each "Enter" in miliseconds
 NavigationSpamDelay := 10
 
 ;     MINIGAME SETTINGS     ====================================================================================================;
